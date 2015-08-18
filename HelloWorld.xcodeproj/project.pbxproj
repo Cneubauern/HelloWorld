@@ -15,6 +15,7 @@
 		9D7C3B7C1B8399B000DF2AFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D7C3B7A1B8399B000DF2AFB /* LaunchScreen.storyboard */; };
 		9D7C3B871B8399B100DF2AFB /* HelloWorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D7C3B861B8399B100DF2AFB /* HelloWorldTests.swift */; };
 		9D7C3B921B8399B100DF2AFB /* HelloWorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D7C3B911B8399B100DF2AFB /* HelloWorldUITests.swift */; };
+		9D7C3BA01B839FF800DF2AFB /* cats-30746_1280.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D7C3B9F1B839FF800DF2AFB /* cats-30746_1280.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9D7C3B8D1B8399B100DF2AFB /* HelloWorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D7C3B911B8399B100DF2AFB /* HelloWorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldUITests.swift; sourceTree = "<group>"; };
 		9D7C3B931B8399B100DF2AFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9D7C3B9F1B839FF800DF2AFB /* cats-30746_1280.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cats-30746_1280.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				9D7C3B701B8399B000DF2AFB /* ViewController.swift */,
 				9D7C3B721B8399B000DF2AFB /* Main.storyboard */,
 				9D7C3B781B8399B000DF2AFB /* Assets.xcassets */,
+				9D7C3B9F1B839FF800DF2AFB /* cats-30746_1280.png */,
 				9D7C3B7A1B8399B000DF2AFB /* LaunchScreen.storyboard */,
 				9D7C3B7D1B8399B000DF2AFB /* Info.plist */,
 				9D7C3B751B8399B000DF2AFB /* HelloWorld.xcdatamodeld */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D7C3BA01B839FF800DF2AFB /* cats-30746_1280.png in Resources */,
 				9D7C3B7C1B8399B000DF2AFB /* LaunchScreen.storyboard in Resources */,
 				9D7C3B791B8399B000DF2AFB /* Assets.xcassets in Resources */,
 				9D7C3B741B8399B000DF2AFB /* Main.storyboard in Resources */,
